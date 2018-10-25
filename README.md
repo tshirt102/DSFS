@@ -6,6 +6,7 @@ Damn Small FI Scanner [![Python 2.6|2.7](https://img.shields.io/badge/python-2.6
 ![Vulnerable](https://i.imgur.com/pgYS6cW.png)
 
 As of optional settings it supports HTTP proxy together with HTTP header values `User-Agent`, `Referer` and `Cookie`.
+
 Sample runs
 ----
 
